@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sim\ taste
+comment0.target=Consumer(Simulation,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Consumer\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ toString\ -\ returns\ the\ toString\ from\ User\r\n\ @return\ \ \ \ a\ formatted\ string\r\n
+numComments=2

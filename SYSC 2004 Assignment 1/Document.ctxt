@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Document(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Document\r\n\ creates\ a\ new\ tag\ from\ the\ tag\ passed\ by\ the\ user\r\n\ Creates\ a\ new\ Id\ based\ off\ the\ ID\ COUNT\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment1.text=\r\n\ getId\ -\ gets\ the\ users\ ID\r\n\ @return\ \ \ \ \ the\ user\ id\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getTag()
+comment2.text=\r\n\ getTag\ -\ gets\ the\ documents\ tag\r\n\ @return\ \ \ \ \ the\ document\ tag\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

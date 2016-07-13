@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=sim\ s
+comment0.target=User(Simulation,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ User\r\n\ Creates\ a\ new\ ArrayList\ of\ likes\r\n\ Creates\ a\ new\ simulation\r\n\ Creates\ a\ new\ user\ taste\r\n\ Creates\ a\ new\ Id\ based\ off\ of\ ID\ COUNT\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ likes\ documents\ from\ simulation\ based\ off\ users\ like\r\n
+comment2.params=
+comment2.target=int\ getId()
+comment2.text=\r\n\ getID\ -\ gets\ the\ users\ ID\ number\r\n\ @return\ \ \ \ \ returns\ the\ user\ id\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTaste()
+comment3.text=\r\n\ getTaste\ -\ gets\ the\ users\ taste\r\n\ @return\ \ \ \ \ the\ users\ taste\r\n
+comment4.params=d
+comment4.target=void\ like(Document)
+comment4.text=\r\n\ Like\ -\ likes\ the\ supplied\ document\r\n\ @param\ \ d\ type\ Document\r\n
+comment5.params=d
+comment5.target=boolean\ likes(Document)
+comment5.text=\r\n\ Checks\ if\ a\ certain\ document\ d\ is\ in\ the\ likes\ ArrayList\r\n\ \r\n\ @param\ \ d\ type\ Document\r\n\ @return\ \ \ \ \ true\ if\ the\ supplied\ document\ is\ in\ the\ users\ likes\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ returns\ false\ if\ the\ supplied\ document\ is\ not\ in\ the\ users\ likes\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
